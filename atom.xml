@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Tuban Cyber]]></title>
+  <link href="http://tubancyber.github.io/atom.xml" rel="self"/>
+  <link href="http://tubancyber.github.io/"/>
+  <updated>2015-03-04T19:13:18+07:00</updated>
+  <id>http://tubancyber.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
