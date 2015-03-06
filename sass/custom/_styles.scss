@@ -1,8 +1,18 @@
 #main{
-margin-left:27%;
+margin-left:24%;
 }
 aside#logo {
 background-color: transparent;
+}
+aside#logo {
+border-radius: 10px;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+}
+aside#logo div {
+border-radius: 0;
+-moz-border-radius: 0;
+-webkit-border-radius: 0;
 }
 aside#logo div a {
 border-radius: 0;
